@@ -1,5 +1,5 @@
 # cp1_java_final_project
-A simple console hangman game that uses words from the user (computer programming I final project, 2023)
+A console hangman game that uses words from the user (computer programming I final project, 2023)
 
 ![2023-12-26 (18)](https://github.com/user-attachments/assets/d9c879f5-67f4-48d0-a2e0-334b8290f314)
 
